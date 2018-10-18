@@ -1,0 +1,2 @@
+com.kakao.test.common
+string app_name

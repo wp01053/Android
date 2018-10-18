@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="26"
+    build-mode="COLD"
+    density="420dpi"
+    format="10"
+    ir-eligibility="COMPATIBLE"
+    plugin-version="3.2.0-beta05"
+    timestamp="1539237695575"
+    token="7342713735825452446"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="207" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="31" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_0.apk"
+        type="SPLIT" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1539235144997"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\resources\instant-run\real\debug\resources-real-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\instant-run-apk\real\debug\kakao-open-android-navi-sample-real-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1539237695575"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\build\intermediates\split-apk\real\debug\slices\slice_0.apk"
+            type="SPLIT" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Jae\\kakao-android-sdk-project-1.13.0-full (2)\\applications\\kakao-open-android-sdk-sample\\build\\intermediates\\incremental\\mergeRealDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kosmo06\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\53ec407d0a59d94b1805555b898f0c7f\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

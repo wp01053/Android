@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/bodyBlock1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <WebView
+            android:id="@+id/web1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bodyBlock2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_dark"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/etMessage"
+            android:layout_width="355dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/background_light"
+            android:ems="10"
+            android:hint="html 문서에 추가될 내용 입력"
+            android:inputType="textPersonName" />
+
+        <LinearLayout
+            android:id="@+id/bottomBlock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnLocalHtml"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="btnLocal"
+                android:text="LOCAL" />
+
+            <Button
+                android:id="@+id/btnWebHtml"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="btnWeb"
+                android:text="WEB" />
+
+            <Button
+                android:id="@+id/btnJavaScriptCall"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="btnJs"
+                android:text="JS CALL" />
+
+            <Button
+                android:id="@+id/btnHtmlString"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="btnStringLoad"
+                android:text="STRING LOAD" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

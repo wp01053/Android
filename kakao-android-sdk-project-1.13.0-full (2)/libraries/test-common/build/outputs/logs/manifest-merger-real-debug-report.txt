@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:3:11-42
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:10:22-67
+application
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:12:5-19:19
+	android:supportsRtl
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:14:9-36
+	android:allowBackup
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:15:9-68
+meta-data#com.kakao.sdk.AppKey
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:16:9-18:42
+	android:value
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:18:13-40
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml:17:13-48
+uses-sdk
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\test-common\src\main\AndroidManifest.xml

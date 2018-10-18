@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\4e60b57dcd5b9d3ed10c18c0a18cf9a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\53ec407d0a59d94b1805555b898f0c7f\AndroidManifest.xml:17:1-22:12
+MERGED from [:libraries:network] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\network\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\aa42c0f6d2da42cc07f577ef8c64a705\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\fff2981eff419d9879411dc58706f47d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\eaafdf081c7a6aef5792e3180e72f0a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\2f9e360cc4d1987f35885e3946109fcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\25caacce5697ceac7fd2603dd836c883\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\60400d03b3d93b2ae497e919d3ead2e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\481c633ed5c99e0573f4e13de855d10e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\e55ab1a2da99cd5770a8bb7791b71905\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\342876eccd0856192cf26f1d11fbb7dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\42bc4f4e9778ea2f33c11b372c7a71e3\AndroidManifest.xml:17:1-22:12
+MERGED from [:libraries:util] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\util\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:3:11-46
+	android:versionName
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:8:5-33:19
+MERGED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:11:5-19:19
+MERGED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:11:5-19:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:12:9-36
+	android:label
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:10:9-47
+	android:allowBackup
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:13:9-67
+meta-data#com.kakao.sdk.AppKey
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:14:9-16:52
+	android:value
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:16:13-50
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:15:13-48
+activity#com.kakao.sdk.navi.sample.SplashActivity
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:21:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:25:27-74
+activity#com.kakao.sdk.navi.sample.KakaoNaviActivity
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:28:9-32:20
+	android:label
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml:29:13-46
+uses-sdk
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+MERGED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\4e60b57dcd5b9d3ed10c18c0a18cf9a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\4e60b57dcd5b9d3ed10c18c0a18cf9a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\53ec407d0a59d94b1805555b898f0c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\53ec407d0a59d94b1805555b898f0c7f\AndroidManifest.xml:20:5-44
+MERGED from [:libraries:network] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\network\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraries:network] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\network\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\aa42c0f6d2da42cc07f577ef8c64a705\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\aa42c0f6d2da42cc07f577ef8c64a705\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\fff2981eff419d9879411dc58706f47d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\fff2981eff419d9879411dc58706f47d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\eaafdf081c7a6aef5792e3180e72f0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\eaafdf081c7a6aef5792e3180e72f0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\2f9e360cc4d1987f35885e3946109fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\2f9e360cc4d1987f35885e3946109fcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\25caacce5697ceac7fd2603dd836c883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\25caacce5697ceac7fd2603dd836c883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\60400d03b3d93b2ae497e919d3ead2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\60400d03b3d93b2ae497e919d3ead2e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\481c633ed5c99e0573f4e13de855d10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\481c633ed5c99e0573f4e13de855d10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\e55ab1a2da99cd5770a8bb7791b71905\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\e55ab1a2da99cd5770a8bb7791b71905\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\342876eccd0856192cf26f1d11fbb7dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\342876eccd0856192cf26f1d11fbb7dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\42bc4f4e9778ea2f33c11b372c7a71e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\42bc4f4e9778ea2f33c11b372c7a71e3\AndroidManifest.xml:20:5-44
+MERGED from [:libraries:util] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\util\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:10:5-12:41
+MERGED from [:libraries:util] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\util\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:10:5-12:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\applications\kakao-open-android-navi-sample\src\main\AndroidManifest.xml
+activity#com.kakao.kakaonavi.KakaoNaviWebViewActivity
+ADDED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:12:9-18:20
+	android:launchMode
+		ADDED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:15:13-43
+	android:windowSoftInputMode
+		ADDED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:17:13-55
+	android:configChanges
+		ADDED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from [:libraries:kakaonavi] D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\kakaonavi\build\intermediates\merged_manifests\realDebug\processRealDebugManifest\merged\AndroidManifest.xml:13:13-72
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\kosmo06\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2f7194f7f0cd6dae0fe6fcab92804566\AndroidManifest.xml:26:13-58

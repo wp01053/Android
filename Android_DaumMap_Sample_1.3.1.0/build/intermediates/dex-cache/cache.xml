@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Java\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Jae\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_e57be6f0098fc63c6c81d829fd80813fe4f2f939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jae\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Jae\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_046a690edb97c0559ab354a634ba5f795b74d10e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jae\Android_DaumMap_Sample_1.3.1.0\app\libs\libDaumMapAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="f096afe1be0bd0114ca942469b3be761fb26a578">
+        <dex dex="D:\Jae\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\libDaumMapAndroid_2a80351d6c91283d9f6b7d26fe26c368cf563dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jae\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Jae\Android_DaumMap_Sample_1.3.1.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_a7c40dbfee0e41431184db638eacd1b87adb7b46.jar" />
+    </item>
+
+</items>

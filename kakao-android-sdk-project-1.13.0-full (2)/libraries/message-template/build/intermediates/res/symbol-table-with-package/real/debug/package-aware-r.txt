@@ -1,0 +1,2 @@
+com.kakao.message.template
+string app_name

@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+	android:versionCode
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:1:1-5:12
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:5-68
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:5-68
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:5-68
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:5-68
+INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:5-68
+	tools:overrideLibrary
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:15-65
+	android:targetSdkVersion
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:5-68
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml
+		ADDED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml:4:5-68
+		INJECTED from D:\Jae\kakao-android-sdk-project-1.13.0-full (2)\libraries\plusfriend\src\main\AndroidManifest.xml

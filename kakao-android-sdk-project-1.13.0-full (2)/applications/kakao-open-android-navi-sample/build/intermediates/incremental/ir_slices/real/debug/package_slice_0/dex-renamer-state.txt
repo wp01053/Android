@@ -1,0 +1,4 @@
+#Thu Oct 11 15:01:39 KST 2018
+base.0=D\:\\Jae\\kakao-android-sdk-project-1.13.0-full (2)\\applications\\kakao-open-android-navi-sample\\build\\intermediates\\transforms\\dexMerger\\real\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
